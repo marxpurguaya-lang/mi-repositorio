@@ -32,6 +32,7 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup.
 
 - [Guia oficial de Markdown](https://www.markdownguide.org/)
 - [Mi perfil de GitHub](https://github.com/marxpurguaya-lang)
+- [Guia del proyecto](docs/GUIA.md)
 
 ## Captura de mi trabajo
 
